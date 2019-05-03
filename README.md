@@ -16,9 +16,10 @@ https://github.com/GoogleCloudPlatform/microservices-demo
 
 ## Architecture
 
-![Architecture]
-https://raw.githubusercontent.com/poc-microservices/idea/master/images/microservices.jpg
-
+![Architecture](https://raw.githubusercontent.com/poc-microservices/idea/master/images/microservices.jpg)
 
 ## Deploy microservices by Knative and Istio
-[Microservice-deploy-Knative-Istio](../devops/knative/README.md)
+
+[Microservice-deploy-Knative-Istio](https://github.com/poc-microservices/devops/blob/master/knative/README.md)
+
+## Deploy microservices by Istio only
